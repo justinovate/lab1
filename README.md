@@ -8,7 +8,7 @@ This project demonstrates repeatable workstation setup, virtual environment isol
  ``` bash
     source.venv/Scripts/activate
 
-**Commit #3 (Documentation):**
+**Commit#3 (Documentation):**
 ```bash
     git add README.md
     git commit -m "docs: add lab readme and test execution results"
